@@ -2,6 +2,7 @@ import logo from './logoheart.svg';
 import './App.css';
 import RC from './RC.js';
 
+
 function App() {
   return (
     <div className="App">
@@ -12,9 +13,5 @@ function App() {
     </div>
   );
 }
-
-
-
-
 
 export default App;
